@@ -106,6 +106,6 @@ int main() {
 
 
     // Ternary Operator
-    string checkNum = (nilai % 2 == 0) ? "Genap" : "Ganjil";
+    string checkNum = (nilai % 2 == 0) ? "Genap" : "Ganjil"; // jika kondisi bernilai true maka checkNum = Genap, jika false maka checkNum = Ganjil
     cout << nilai << " adalah bilangan " << checkNum << endl;
 }
