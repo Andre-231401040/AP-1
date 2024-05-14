@@ -12,7 +12,7 @@ using namespace std;
 typedef struct {
     string nama, nim;
     float nilai;
-} Mahasiswa; // struck Mahasiswa 
+} Mahasiswa; // struct Mahasiswa 
 
 int main() {
     system("cls");
